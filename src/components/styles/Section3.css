@@ -1,0 +1,39 @@
+.right-menu-bar {
+	top: 5px;
+	/* left: 1276px; */
+	position: relative;
+	width: 70px;
+	height: 668px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 12px #101C2414;
+	border-radius: 6px;
+	opacity: 1;
+}
+.menu-name{
+	width: 36px;
+	height: 20px;
+	text-align: center;
+	font: normal normal 600 8px/11px Mecellem;
+	letter-spacing: 0px;
+	color: #06090F;
+	opacity: 1;
+	position: relative;
+	justify-self: center;
+}
+.chevronRight{
+	width: 35px;
+	height: 10px;
+	color: #7E8B9F;
+}
+.main-header-name{
+	top: 0px;
+	left: 5px;
+	width: 39px;
+	height: 15px;
+	text-align: left;
+	font: normal normal normal 12px/14px Mecellem;
+	letter-spacing: -0.4px;
+	color: #7E8B9F;
+	opacity: 1;
+	position: relative;
+}
